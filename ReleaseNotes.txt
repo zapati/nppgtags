@@ -1,3 +1,11 @@
+What's new in v4.4.0
+=======================
+
+- Added search functionality in result window.
+- Added per-database config setting for excluding sub-paths from results.
+- GTags binaries updated to v6.5.6.
+
+
 What's new in v4.3.1
 =======================
 
